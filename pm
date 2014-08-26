@@ -14,7 +14,8 @@ Process group: x5
     - Initiating
     - Planning
     - Executing
-    - Monitoring and Controlling
+    - Monitoring and Controlling: Monitoring the project activities against the
+                                  project management plan and the project measurement baselines.
     - Closing
 
 Constraints: x6
@@ -24,6 +25,52 @@ Constraints: x6
     - Resource 
     - Risk
     - Quality
+
+
+Organizational Structures:
+    1. Functional
+    2. Weak Matrix
+    3. Balanced Matrix
+    4. Strong Matrix
+    5. Projectized
+
+Organizational Process Assets
+
+Enterprise Environmental Factors
+
+Project governance: ( "The alignment of the project with Stakeholders' need or objectives.")
+
+Project phase are not process groups:
+    A phase is something like: 
+                - "Starting the project"
+                - "Optimizing"
+                - "Carrying the work"
+                - "Closing the work"
+
+Sequential / Overlapping phases.
+
+Predictive Life Cycle (Fully plan driven: Everything is determined as early as possible.)
+
+Iterative and Incremental Life Cycle (project phase (iteration) repeating ).
+
+Adaptive Life Cycle (Change driven / Agile method: short iteration duration)
+
+Work Performance Data (Raw observations and measurement)
+    - percent of work completed
+    - performance measurement
+    - start / finish dates
+    - number of defects
+
+Work Performance Information (Data collected and analyzed in context)
+    - status deliverables
+    - implementation status for change requests
+    - forecasted estimates
+
+
+Work Performance reports (Representation of work):
+    - Status reports
+
+
 
 
 Project Integration Management:
