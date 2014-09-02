@@ -1,0 +1,62 @@
+1) Facilitation is a management skills.
+   A good facilitator should remain neutral and facilitate consensus when required.
+
+2) The create WBS process identify the deliverables at the lowest level in the WBS:
+                 - The Work Package.
+   Project Work Package are typically decomposed into smaller components called:
+                 - Activity (represents the work to complete a work package)
+
+3) Contingency funds / allowance are used for items likely but not certain to occur.
+
+4) Key Stakeholders --> Stakeholders in decision making decision
+
+
+5) Probability and impact matrix are used filter the high risk and high impact from others.
+
+6) Time and Material Contract will allow the contract to change as the scope changes.
+
+7) The attribute sampling measure the quality of items in a sample on a pass/fail basis
+   The variable sampling measure the quality on a continuous scale.
+
+8) Finish to Start: Most common relationship in precedence diagramming method.
+                    The next Activity cannot start until the previous one has started.
+
+9) Start to Finish: Least common relationship in precedence diagramming method.
+                    The next Activity cannot finish until the previous one has started.
+
+10) The project charter is approved by the sponsor or a external project initiator.
+
+11) A Control chart must have an upper / lower control limits to indicate when 
+   the process is in or out of control.
+
+12) Project Time Management: Rolling Wave Planning is a technique used to create a more detailed
+    work plan while keeping the right level of detail for each activity. 
+
+13) The configuration management activities in the Perform Integrated Change Control process are:
+        - Configuration identification
+        - Configuration Status Accounting
+        - Configuration Verification and Auditing.
+
+14) Kill points mark the transition from one phase to the other.
+
+15) Commercial Database is an Enterprise Environmental Factor.
+
+16) Configuration Management Knowledge base, Change control procedure, historical information
+    are Organizational process assets.
+
+17) Performing Qualitative Analysis is quick and cheap.
+    Performing Quantitative Analysis is long and expensive.
+
+18) 7 basic tools of quality (Quality Management):
+                - cause and effect diagram (fishbone diagram)
+                - control chart
+                - flow chart
+                - histograms
+                - pareto chart
+                - check sheet
+                - scatter diagrams
+
+
+TODO: Check question 13, 26
+
+
