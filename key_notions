@@ -11,7 +11,8 @@
 4) Key Stakeholders --> Stakeholders in decision making decision
 
 
-5) Probability and impact matrix are used filter the high risk and high impact from others.
+5) Probability and impact matrix are used to filter the high risk and high impact 
+   from others.
 
 6) Time and Material Contract will allow the contract to change as the scope changes.
 
@@ -29,10 +30,11 @@
 11) A Control chart must have an upper / lower control limits to indicate when 
    the process is in or out of control.
 
-12) Project Time Management: Rolling Wave Planning is a technique used to create a more detailed
-    work plan while keeping the right level of detail for each activity. 
+12) Project Time Management: Rolling Wave Planning is a technique used to create 
+    a more detailed work plan while keeping the right level of detail for each activity. 
 
-13) The configuration management activities in the Perform Integrated Change Control process are:
+13) The configuration management activities in the Perform Integrated Change
+    Control process are:
         - Configuration identification
         - Configuration Status Accounting
         - Configuration Verification and Auditing.
@@ -41,8 +43,8 @@
 
 15) Commercial Database is an Enterprise Environmental Factor.
 
-16) Configuration Management Knowledge base, Change control procedure, historical information
-    are Organizational process assets.
+16) Configuration Management Knowledge base, Change control procedure, 
+    historical information are Organizational process assets.
 
 17) Performing Qualitative Analysis is quick and cheap.
     Performing Quantitative Analysis is long and expensive.
@@ -56,7 +58,176 @@
                 - check sheet
                 - scatter diagrams
 
+18) Crashing is a technique to compress the schedule without changing the scope.
+    Fast tracking is another technique.
 
-TODO: Check question 13, 26
+19) At the end of the project the schedule variance is ZERO: SV = EV - PV.
+    At the end of the project, all planned value should be earned and the difference 
+    should be ZERO.
+
+20) A scatter diagram plots several occurrences of 2 variables (one on each axis).
+    A relationship can then often be determined between the two variables.
+
+21) The potential cause of a specific effect fail into the following categories:
+    - time, machine, method, material, energy, measurement, personnel and environment.
+
+22) Scope creep: Uncontrolled scope change.
 
 
+23) The Project scope statement describes the project's deliverables and the work 
+    required to create those deliverables.
+
+
+24) The project scope statement lists and describes the specific project assumptions
+    associated w/ project scope and the potential impact if those assumptions 
+    proved to be false. More numerous and detailed assumption in the Scope Statement
+    than in the project charter.
+
+
+25) Statistical sampling will provide sufficient inspection to ensure a high likelihood 
+    of a quality product while saving money for the project.
+
+
+26) The Data Date is the date through which the project has provided actual status and 
+    accomplishments. 
+    It's a point in time where the status of the project is recorded.
+    Also called as-of date and status date.
+
+30) Risk diagram techniques includes: 
+        - cause and effet diagrams (fishbone / Ishigawa diagram)
+        - flowcharts
+        - influence diagrams
+        (NO RACI chart.)
+
+31) Colocation is a tool and technique to the Develop Project Team process.
+
+32) The Resource Breakdown Structure is a hierarchical structure of resources by 
+    resource category and resource type.
+    --> use in resource levelling.
+
+33) A Pareto chart is a type of histogram where the causes are ordered by frequency.
+
+34) The grade of a product relates to the technical characteristics of the product.
+
+35) A work around is a response to a negative unplanned risk.
+
+36) A bottom-up estimating is a technique that can be applied only when sufficient 
+    information is available.
+
+37) Process improvement model:
+    - Malcom-Baldrige
+    - Organizational Project Management Maturity Model (OPM3)
+    - Capability Maturity Model Integrated (CMMI)
+
+38) A Control Account is a Management Control Point where the actual cost / schedule
+    are integrated and compared to earned value for performance measurement.
+    Control Account are placed at selected management point of the WBS.
+    One control account may include one or many Work Package
+    But each Work Package must be associated w/ only one Control Account. (p.132 Scope)
+
+
+39) Control Account and Planning Package are 2 planning components used when there are 
+    insufficient details of the project scope.
+
+40) Scope Validation involves obtaining the Stakeholders' formal acceptance of project
+    deliverables.
+
+41) Cost of Quality Assurance is part of the Cost of Conformance (not non-Conformance)
+
+42) WBS --> 100% rule - No extra work left.
+
+43) emails are informal communication. 
+    Reports, Briefing are considered formal communication.
+
+44) Analogous Estimating is a gross value estimation technique.
+
+45) Configuration Management Activities are documented as part of the requirements 
+    management plan which is an output of the Plan Scope Management.
+
+46) Responsibility Assignment Matrix (RAM) illustrates the connection between the
+    remaining work to be done and the team members.
+
+47) The Work Authorization System is a subsystem of the overall project management
+    system.
+    It is a collection of of formal documented procedures that defines how work will
+    be authorized to ensure that work is done at the right time and proper sequence.
+
+48) ETC = BAC - EV
+
+49) acceptance criteria in the project scope statement.
+
+50) Group decision: Dictatorship, Majority, Unanimity.
+
+
+
+51) The upper / lower Control limits are normally set at +/- 3 sigma.
+
+
+52) Contracts can be classified as:
+        - Fixed price (Firm fixed price, Fixed price incentive)
+        - Cost Reimbursable (Cost Plus incentive fee, Cost plus Award fee)
+        - Time and Material ()
+
+
+53) PDCA --> from Deming.
+
+
+54) A lead allows an early start of successor activity.
+
+
+55) Identify Risk Process tools and techniques:
+        - Interviewing
+        - Root Cauase Analysis
+        - Brainstorming.
+
+    Delta technique is not an information technique used in the identify Risk Process.
+
+
+56) The project integration management is needed more where individual processes 
+    interact.
+
+57) Plan procurement Management process output:
+        - Procurement Management Plan
+        - Procurement statement of work
+        - Make or buy decision
+        - Procurement documents
+        - Source selection criteria
+        - Change request
+        - Project document updates
+
+58) Time & Material contracts are hybrid type of contractual agreements that could
+    contain aspects of both cost-reimbursable and fixed-price type contracts.
+
+59) The project charter describes the authority of the PM.
+
+60) The WBS puts greater focus on the deliverables than the activities.
+
+61) The Estimate Activity Resource process determines what and how many resources
+    will be used.
+
+62) Manual Forecasting of cost for the remaining work is generally the best means
+    of generating an accurate forecast (p.220).
+
+63) Risk transference nearly always involves payment of a premium to the party taking
+    on the risk. Examples are use of performance bonds, warranties, fixed price
+    contracts.
+
+64) Decision trees are to be used when the uncertainty and unknowns exists regarding
+    future scenarios and their outcomes.
+    Not to be used when the future scenarios are known.
+
+
+
+
+TODO:
+    - Check question 13, 26, 24, 27
+    - Study in more detail the Project Time Management and the different techniques
+      of improving the schedule.
+    - Study in more detail the Project Quality Management.
+    - Study in more detail the configuration tools.
+
+
+
+    
+
+    - Check question 38, 41
