@@ -31,7 +31,9 @@
    the process is in or out of control.
 
 12) Project Time Management: Rolling Wave Planning is a technique used to create 
-    a more detailed work plan while keeping the right level of detail for each activity. 
+    a more detailed work plan while keeping the right level of detail for each 
+    activity.
+    Also called progressive elaboration.
 
 13) The configuration management activities in the Perform Integrated Change
     Control process are:
@@ -216,6 +218,52 @@
     future scenarios and their outcomes.
     Not to be used when the future scenarios are known.
 
+65) A tornado diagram is useful for comparing the relative importance of variables
+    that have a high degree of uncertainty to those that are more stable.
+    --> Useful for sensitivity analysis for Quantitative Risk analysing.
+
+66) When a project is run under contract, the contractual provision are considered
+    constrains to the project as they limiting factors.
+
+67) The importance for the planning responses to the risk are usually set by the 
+    organization.
+
+68) Resource levelling can often cause the original critical path to change.
+
+69) The difference between the early start and the late and early start is called 
+    the Total Float.
+
+70) The comprehensive summary activity that is displayed in bar chart reports is
+    called Hammock activity.
+
+71) Monte Carlo Analysis is a technique that computes or iterates the project cost
+    or project schedule many times using input values selected at random from
+    probability distributions of possible cost or durations, to calculate a distribution
+    of possible total project costs or completion dates.
+
+
+72) Configuration Status Accounting: Check p.97
+
+73) Program Evaluation Review Technique (PERT):
+        - Triangular dist: (Pessimistic + Most Likely + Optimistic)/3
+        - Beta distribution: (Pessimistic + (Most Likely * 4) + Optimistic)/6
+
+74) Rough Order of Magnitude (ROM) estimate is given in the beginning of a project.
+    It is defined as -25% / + 75% of the estimated cost.
+
+75) Process Analysis is a technique of Quality Assurance that relates root cause 
+    analysis and is used to identify a problem, discover the cause and develop
+    preventive actions.
+
+76) Every time a team member joins or leave the team, the Staffing Management Plan
+    must be updated.
+
+77) Fast Tracking: To run tasks parallely when they supposed to be consecutive.
+    Crashing: Adding more resources to shorten the schedule.
+    Resource Levelling: ??
+
+78) Resource calendar indicates when resources are available for the project.
+
 
 
 
@@ -225,6 +273,7 @@ TODO:
       of improving the schedule.
     - Study in more detail the Project Quality Management.
     - Study in more detail the configuration tools.
+    - Find out the difference between formal and informal communication.
 
 
 
