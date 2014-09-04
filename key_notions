@@ -264,7 +264,37 @@
 
 78) Resource calendar indicates when resources are available for the project.
 
+79) The team role, Responsibility, authority and competency are documented in the 
+    Human Resource Plan.
 
+80) The project management Information is an Enterprise Environmental Factor.
+
+81) Key milestones are an output of the define Activity phase.
+
+82) Fund limit reconciliation: 
+    The expenditure of funds is frequently reconciled w/ the disbursement of funds.
+    --> Need the scheduling of work to be adjusted to smooth
+    or regulate those expenditures.
+
+83) Resource Assignment is NOT part of the WBS dictionary.
+    WBS dictionary includes:
+        - List of schedule milestones
+        - Agreement information
+        - Code of account identifier
+        NOT the Resource Assignment.
+
+84) Mandatory dependencies == HARD logic
+
+85) Inspection: keeping error out of the customer.
+    Prevention: keeping error out of the process.
+
+86) Project boundary: a point in time where the project (or phase) is authorized to 
+    its completion.
+
+87) Constraints are factors that can limit the project management team's option.
+
+88) Project Performance Appraisal deals with how each team member is performing work
+    rather than how well is the team is working together.
 
 
 TODO:
@@ -274,7 +304,7 @@ TODO:
     - Study in more detail the Project Quality Management.
     - Study in more detail the configuration tools.
     - Find out the difference between formal and informal communication.
-
+    - Study some chart examples.
 
 
     
