@@ -5,6 +5,7 @@
                  - The Work Package.
    Project Work Package are typically decomposed into smaller components called:
                  - Activity (represents the work to complete a work package)
+   But those activities would be part of the project schedule and not the WBS.
 
 3) Contingency funds / allowance are used for items likely but not certain to occur.
 
@@ -108,6 +109,7 @@
     --> use in resource levelling.
 
 33) A Pareto chart is a type of histogram where the causes are ordered by frequency.
+    RISK management.
 
 34) The grade of a product relates to the technical characteristics of the product.
 
@@ -275,6 +277,7 @@
     The expenditure of funds is frequently reconciled w/ the disbursement of funds.
     --> Need the scheduling of work to be adjusted to smooth
     or regulate those expenditures.
+    --> Instead of spending much at once, it would be spending multiple time but less.
 
 83) Resource Assignment is NOT part of the WBS dictionary.
     WBS dictionary includes:
@@ -296,6 +299,112 @@
 88) Project Performance Appraisal deals with how each team member is performing work
     rather than how well is the team is working together.
 
+89) Contingency reserves are used to deal w/ Anticipated but not certain events.
+
+90) CPI = EV / AC
+    SPI = EV / 
+
+91) Control Thresholds are variance thresholds for cost or other indicators.
+    --> Indicate the agreed amount of variation allowed.
+
+92) Make or buy analysis should include both Direct and Indirect costs.
+
+93) The Project Scope Management is primarily concerned w/ defining and controlling 
+    what is and is not cincluded in the project.
+
+94) Bottom-up estimating: Activities are broken down into smalled components for
+    estimation. These smaller estimations are then summed up to obtain the cost 
+    estimate.
+
+95) Organizational Breakdown Structure: 
+    A hierarchical organized depiction of the project organization arranged so as
+    to relate the work packages to performing Organizational units
+
+96) Management reserves are included in the project's total funds but they are not
+    included in the project's cost performance baseline.
+
+97) Backward pass: Calculation of late finish and late entry for uncompleted activities
+
+98) Proposal requirement == Source Selection Criteria.
+
+99) Demming's model => PDCA (Plan Do Check Act)
+
+100) Perform Quantitative Risk Analysis could use Decision Tree Diagram.
+    The decision nodes are also called Decision Points. (p.339)
+
+101) The project charter normally includes:
+        - Summary milestones
+        - Business needs
+        - Understanding of customer's need
+        - other high level items
+
+
+102) Continuous process improvement reduces Waste and non-value added activities,
+     which allows processes to operate at increased level of efficiency and effectiveness.
+
+103) Detail milestone list is created as an output of the Define Activities process.
+
+104) Critical Chain Method: Schedule Network Analysis technique that accounts for 
+     limited resources.
+
+105) The To-Complete Performance Index (TCPI) indicates the required cost 
+     performance in order to complete the project on budget.
+
+106) Performance reporting is a tool of the "Manage Communication" process.
+
+107) Risk Diagram techniques:
+        - Influence diagram
+        - Cause and Effect diagram
+        - System flowcharts
+
+108) The cost of quality principle includes the cost of ensuring conformance to 
+     requirement.
+
+109) A control chart shows the stability of a process over time.
+
+110) Process analysis include Root cause analysis.
+
+111) Earn Value Analysis is used as a trend analysis technique for monitoring
+     over project performance.
+
+112) EV data analysis can be represented by both S-curve and tabular format.
+
+113) Inputs of "determine the budget": 
+        - Actvity cost etimates
+        - Basis of assumptions
+
+114) Crossing thresholds triggers actions.
+
+115) Qualitative Risk Analysis examines the Risks from the risk register and analyse
+     its probability of occurrence and the impact it would have on the project 
+     deliverables if it did occur.
+     It ranks risks for future action or analysis by evaluating their probability of
+     occurrence and impact.
+
+116) The development of the requirements begins w/ an analysis of the information
+     in the project charter and the stakeholders register.
+
+117) Risk Management Plan includes: 
+        - Roles and Responsibilities
+        - Budgeting
+        - Methodology
+        - NO Template
+
+118) The nominal group technique enhances brainstorming w/ a voting process.
+
+119) Reserve Analysis: Done in estimate cost.
+
+120) Expected Monetary Value (EMV) analysis is a statistical concept that calculates
+     the average outcome when the future includes scenarios that may or may not 
+     happen.
+     Opportunities: EMV > 0
+     Risk: EMV < 0
+
+121) At expected rate:
+        Estimate At Completion (EAT) = Actual Cost (AC) + Budget At Completion (BAC)
+                                       - Earn Value (EV)
+
+
 
 TODO:
     - Check question 13, 26, 24, 27
@@ -305,6 +414,8 @@ TODO:
     - Study in more detail the configuration tools.
     - Find out the difference between formal and informal communication.
     - Study some chart examples.
+    - Check p.339 (Risk Management)
+
 
 
     
