@@ -7,7 +7,8 @@
                  - Activity (represents the work to complete a work package)
    But those activities would be part of the project schedule and not the WBS.
 
-3) Contingency funds / allowance are used for items likely but not certain to occur.
+3) Contingency funds / allowance / reserves are used for items likely
+   but not certain to occur (known-unknown)
 
 4) Key Stakeholders --> Stakeholders in decision making decision
 
@@ -62,6 +63,8 @@
                 - scatter diagrams
 
 18) Crashing is a technique to compress the schedule without changing the scope.
+    Crashing always does not produce a desirable product and may result in increase
+    risks.
     Fast tracking is another technique.
 
 19) At the end of the project the schedule variance is ZERO: SV = EV - PV.
@@ -110,6 +113,8 @@
 
 33) A Pareto chart is a type of histogram where the causes are ordered by frequency.
     RISK management.
+    It identifies the vital few sources that are responsible for causing most of 
+    problem's effects.
 
 34) The grade of a product relates to the technical characteristics of the product.
 
@@ -162,26 +167,24 @@
 
 50) Group decision: Dictatorship, Majority, Unanimity.
 
-
-
 51) The upper / lower Control limits are normally set at +/- 3 sigma.
-
 
 52) Contracts can be classified as:
         - Fixed price (Firm fixed price, Fixed price incentive)
+            --> Transfer the risk to the vendor
         - Cost Reimbursable (Cost Plus incentive fee, Cost plus Award fee)
+            --> More risk on the cutomer
         - Time and Material ()
-
+            --> Mixed / hybrid of both type above.
 
 53) PDCA --> from Deming.
-
+    Plan Do Check Act
 
 54) A lead allows an early start of successor activity.
 
-
 55) Identify Risk Process tools and techniques:
         - Interviewing
-        - Root Cauase Analysis
+        - Root Cause Analysis
         - Brainstorming.
 
     Delta technique is not an information technique used in the identify Risk Process.
@@ -219,6 +222,8 @@
 64) Decision trees are to be used when the uncertainty and unknowns exists regarding
     future scenarios and their outcomes.
     Not to be used when the future scenarios are known.
+    Input: Cost of each decision
+    Output: Decision made
 
 65) A tornado diagram is useful for comparing the relative importance of variables
     that have a high degree of uncertainty to those that are more stable.
@@ -232,11 +237,21 @@
 
 68) Resource levelling can often cause the original critical path to change.
 
-69) The difference between the early start and the late and early start is called 
-    the Total Float.
+69) Total Float: The difference between the early start and the late start or 
+                 late start and late finish is called the Total Float.
+                 Represents the amount of time (slack) allowed so that the overall
+                 is not impacted.
+
+    Free float: Early start of the following activity minus Early Finish of the 
+                current activity.
+                Represent the amount of time the current activity can be delayed
+                without impacting the next activity early start.
 
 70) The comprehensive summary activity that is displayed in bar chart reports is
     called Hammock activity.
+    The Hammock activity put together a group a unrelated tasks that belongs to 
+    no specific groups.
+
 
 71) Monte Carlo Analysis is a technique that computes or iterates the project cost
     or project schedule many times using input values selected at random from
@@ -262,7 +277,7 @@
 
 77) Fast Tracking: To run tasks parallely when they supposed to be consecutive.
     Crashing: Adding more resources to shorten the schedule.
-    Resource Levelling: ??
+    Resource Levelling: Adjust the resource so that some phase becomes less busy.
 
 78) Resource calendar indicates when resources are available for the project.
 
@@ -302,7 +317,7 @@
 89) Contingency reserves are used to deal w/ Anticipated but not certain events.
 
 90) CPI = EV / AC
-    SPI = EV / 
+    SPI = EV / PV
 
 91) Control Thresholds are variance thresholds for cost or other indicators.
     --> Indicate the agreed amount of variation allowed.
@@ -310,7 +325,7 @@
 92) Make or buy analysis should include both Direct and Indirect costs.
 
 93) The Project Scope Management is primarily concerned w/ defining and controlling 
-    what is and is not cincluded in the project.
+    what is and is not included in the project.
 
 94) Bottom-up estimating: Activities are broken down into smalled components for
     estimation. These smaller estimations are then summed up to obtain the cost 
@@ -323,8 +338,13 @@
 96) Management reserves are included in the project's total funds but they are not
     included in the project's cost performance baseline.
 
-97) Backward pass: Calculation of late finish and late entry for uncompleted activities
-
+97) Forward pass: Calculation of the early start / finish dates.
+                  Early Finish = Early Start + Activity Duration - 1
+    Backward pass: Calculation of late finish and late entry for uncompleted activities
+                   Late Start = Late Finish - Activity Duration + 1.
+                   The late finish of every last activity in a path is equal to 
+                   the early finish of the last activity of the critical path.
+    
 98) Proposal requirement == Source Selection Criteria.
 
 99) Demming's model => PDCA (Plan Do Check Act)
@@ -336,7 +356,8 @@
         - Summary milestones
         - Business needs
         - Understanding of customer's need
-        - other high level items
+        - other high level items (eg: risks)
+        - Project Approval Requirement 
 
 
 102) Continuous process improvement reduces Waste and non-value added activities,
@@ -346,6 +367,11 @@
 
 104) Critical Chain Method: Schedule Network Analysis technique that accounts for 
      limited resources.
+     It is used to prepare a schedule network diagram with limited resource.
+     Availability of resources is entered ressouce-limited is prepared. 
+     Duration buffer are used in critical chain method.
+     After the network diagram is ready then the Critical Path is calculated.
+
 
 105) The To-Complete Performance Index (TCPI) indicates the required cost 
      performance in order to complete the project on budget.
@@ -399,10 +425,220 @@
      happen.
      Opportunities: EMV > 0
      Risk: EMV < 0
+     EMV = Sum (Risk of occurence * impact) --> impact is positive or negative.
 
 121) At expected rate:
         Estimate At Completion (EAT) = Actual Cost (AC) + Budget At Completion (BAC)
                                        - Earn Value (EV)
+
+122) Key components of communication:
+        encode, message, medium, noise, decode
+
+123) PRODUCT Verification happens during the closing process.
+
+124) Organizational vs Enterprise
+
+125) Project deliverables are NOT part of the project files.
+
+126) Organizational process assets are not input of Control Stakeholders engagement.
+
+127) The lowest level of RBS can be used as risk check list.
+
+128) Voice of customer: non-proprietary approach to quality management.
+                        Customer's requirement exactly met in the finished product.
+
+129) 360 feedback: feedback from multiple source.
+
+130) Scatter diagrams are used to determine if a correlation exists between 2 
+     variables.
+
+131) Influence diagram: graphical representation of situations showing causal 
+     influences, time-ordering of events and other relationships among variables
+     and outcomes.
+     Cause and Effect diagram also identify the cause of the risk but w/o a 
+     a timeline.
+
+132) Process Decision Program Chart (PDPC) are used to understand a project goal
+     in relation to the steps for getting to that goal.
+     Used for contingency planning that helps the team in anticipating intermediate
+     steps that could derail achievement of a project goal.
+
+134) Define scope output: Project Scope Statement and update to project documents
+                          like the Stakeholders register, requirement traceability
+                          matrix, etc...
+
+135) The interrelationship digraphs provide a process for creative process solving.
+     in moderately complex scenarios w/ intertwined logical relationship.
+
+136) Staffing Management Plan: 
+            - time periods that members are supposed to work
+            - training plans
+            - certification requirements
+            - compliance issues
+
+137) Failure Mode and Effect Analysis.
+
+138) Requirement Traceability Matrix.
+
+139) An Organizational Breakdown Structure (OBS):
+    Similar to the WBS but arranged to the organizational structure.
+
+140) Responsibility Accountability Consult Inform (RACI):
+     A type of responsibility assignment matrix used to illustrate the relationships
+     between work that needs to be completed and team members.
+     Matrix row     --> work package
+            column  --> team member role
+    One person is responsible for a work package
+    Maybe more than one person will be responsible for completing the work package.
+
+141) The PM is one responsible for the project.
+     But the sponsor is ultimately the one responsible to make sure the project
+     is completed.
+
+145) Conflict resolution technique:
+        - Forcing, Smoothing, Compromising, Collaborating, and Withdrawing.
+
+146) The project scope is measured against the project scope baseline which includes:
+        Project scope statement, WBS and its dictionary.
+
+
+147) Cost Plus Fixed Fee (CPFF)
+
+148) Cost Plus Incentive Fee (CPIF)
+
+149) Smoothing is a temporary way to smoothen conflict.
+
+150) Tuckman ladder's team development stages:
+        - forming, storming, norming, performing and adjourning.
+
+151) Job shadowing (observation) 
+
+152) Work Performance Information are easily understood.
+
+153) The Configuration Management also includes:
+        - A change tracking system
+        - A description of the functional and physical characteristics of the product.
+        - Procedures to control changes
+        - It's a subcomponent of the project management system.
+
+154) Risk mitigation --> reduce the risk to level where the risk is acceptable.
+
+155) Salience model describes the stakeholders based on their power, urgency and 
+     legitimacy.
+
+156) Schedule training: class room, online training, etc..
+     Unscheduled training: conversation, observation, project performance appraisal
+     All are performed in the managing the project team process.
+
+157) Resource levelling is applied to a schedule that has already been analysed by
+     the CPM.
+
+158) Code of ethic: Responsibility, respect, fairness and honesty.
+
+159) Activity duration estimates don't indicate any lags/leads.
+
+160) Colocation == Tight Matrix
+
+161) Discretionary is based on knowledge of best practice in a given area.
+     --> create arbitrary float and limit scheduling options.
+
+162) Plurality: Group decision technique.
+        --> even if a majority is not achieved, the largest block in the group
+            make the decision.
+
+163) For Time and Material contract the use of a not-to-exceed value and a time limit
+     may prevent unlimited growth of time and cost.
+
+164) Affinity diagram: Grouping large number of ideas (sorted by affinity) 
+                       for further analysis.
+
+165) Cost Performance Baseline == Performance Measurement Baseline (for EVM)
+
+166) Fixed Price w/ Economic Price Adjustment Contrac (FP-EPA)
+     --> Good for long term (years) contract.
+
+167) Destructive testing is categorized under the Appraisal Cost.
+
+168) Cost-reimbursable contract gives the project flexibility to redirect the seller
+     whenever the scope of work cannot be precisely defined or when high risks exist.
+
+169) Source selection Criteria is an input of Conduct Procurement.
+
+
+170) A process is out of control if:
+        - 7 consecutive points are above or below the mean
+        - 1 data point exceeds the control limit
+
+171) Risk Urgency Assessment Document is a tool in the Perform Qualitative Risk 
+     Analysis process.
+
+172) The type of contract is described in the Procurement Management Plan.
+
+173) Precision means the repeated measurement are clustered.
+     Accuracy is how close the measurement is to the actual value.
+
+174) Configuration Control: Focus on the specification of the deliverables or 
+                            the processes.
+     Change Control: Focus on project changes and product baseline.
+
+175) Statistical sampling is a tool in both the Control Quality and 
+     Plan quality Management Plan.
+
+176) Decision making 6 phases model:
+        - Problem definition
+        - Problem solution Generation
+        - Ideas to Action
+        - Solution Planning
+        - Solution Evaluating Planning
+        - Evaluation of the Outcome and Process.
+
+178) Basic decision style:
+        - command, consultation, consensus, coin flip.
+
+179) Decision Making 4 major factor:
+        - time constraints, trust, quality, acceptance.
+
+180) Stakeholders influences are higher at the beginning and lower at the end 
+     of the project.
+
+181) The scope baseline is an output of the create WBS.
+
+182) Working Performance Reports are input of the Manage Communication Process.
+
+183) Organization structure and culture are Enterprise environment Factors.
+
+184) Stakeholders engagement Assessment Matrix:
+        a matrix that shows the desired engagement level of the stakeholders.
+
+185) BAC: Budget At Completion (Project Scope Baseline)
+    PV: Planned Value   (Total of PV = Performance Measurement Baseline PMB)
+    AC: Actual Cost
+    EV: Earned Value    (EV is measured against the Perf. Meas. Base. PMB)
+    EAC: Estimate At Completion
+    ETC: Estimate To Complete
+    TCPI: To Complete Performance Index
+    VAC: Variance At Completion
+
+    SV = EV - PV --> Schedule Variance
+    CV = EV - AC --> Cost Variance
+
+    SPI = EV / PV 
+    CPI = EV / AC
+
+    VAC = BAC - EAC
+
+    EAC = AC + Bottom-up ETC    --> manual
+    EAC = AC + (BAC - EV)       --> At budgeted rate
+    EAC = BAC / CPI             --> At present CPI
+    EAC = AC + [(BAC-EV)/ (CPI*SPI)] --> At current CPI and SPI
+
+    ETC = EAC - AC
+
+    TCPI = (BAC-EV) / (BAC-AC)  --> BAC based; BAC-EV=Work Remaining
+    TCPI = (BAC-EV) / (EAC-AC)  --> EAC based
+
+
+
 
 
 
